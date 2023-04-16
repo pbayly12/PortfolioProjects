@@ -1,5 +1,3 @@
-Olympics Data Set
-
 /*
 Olympics Data Exploration 
 Skills used: COUNT, DISTINCT, AVG, Comparison operators, Group By, Order By, Aliases.
